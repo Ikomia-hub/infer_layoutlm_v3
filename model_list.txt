@@ -1,0 +1,11 @@
+microsoft/layoutlmv3-base
+microsoft/layoutlmv3-large
+microsoft/layoutlmv3-base-chinese
+nielsr/layoutlmv3-finetuned-funsd
+nielsr/layoutlmv3-finetuned-cord
+jinhybr/OCR-LayoutLMv3-Invoice
+Theivaprakasham/layoutlmv3-finetuned-wildreceipt
+Theivaprakasham/layoutlmv3-finetuned-invoice
+Theivaprakasham/layoutlmv3-finetuned-sroie
+rajistics/layoutlmv3-finetuned-cord_500
+Narsil/layoutlmv3-finetuned-funsd
